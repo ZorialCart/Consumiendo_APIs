@@ -1,0 +1,9 @@
+E:\AWOS\Google Maps\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\AWOS\Google Maps\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\AWOS\Google Maps\DAL\bin\Debug\DAL.dll
+E:\AWOS\Google Maps\DAL\bin\Debug\DAL.pdb
+E:\AWOS\Google Maps\DAL\bin\Debug\BILL.dll
+E:\AWOS\Google Maps\DAL\bin\Debug\BILL.pdb
+E:\AWOS\Google Maps\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\AWOS\Google Maps\DAL\obj\Debug\DAL.dll
+E:\AWOS\Google Maps\DAL\obj\Debug\DAL.pdb

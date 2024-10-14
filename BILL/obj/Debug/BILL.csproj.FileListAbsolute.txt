@@ -1,0 +1,6 @@
+E:\AWOS\Google Maps\BILL\bin\Debug\BILL.dll
+E:\AWOS\Google Maps\BILL\bin\Debug\BILL.pdb
+E:\AWOS\Google Maps\BILL\obj\Debug\BILL.csproj.AssemblyReference.cache
+E:\AWOS\Google Maps\BILL\obj\Debug\BILL.csproj.CoreCompileInputs.cache
+E:\AWOS\Google Maps\BILL\obj\Debug\BILL.dll
+E:\AWOS\Google Maps\BILL\obj\Debug\BILL.pdb
